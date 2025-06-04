@@ -1,16 +1,19 @@
-# next_stepp
+# 👋 Hi there, I’m Nusrat Jahan
 
-A new Flutter project.
+**3rd-year CSE student**  
+Bangladesh Army University of Science & Technology (BAUST), Saidpur
 
-## Getting Started
+🔭 I recently built a **Flutter Internship Finding Portal**—check it out below.  
+📫 Reach me at: [nuj515001@gmail.com](mailto:nuj515001@gmail.com)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📌 Pinned Repositories
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [internship-portal](https://github.com/Nusrat-n/internship-portal)  
+  A Flutter-based app connecting students with internship postings, using Firebase for authentication and real-time data.  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+_“Code is like humor—if you have to explain it, it’s bad.”_  
+– Cory House
