@@ -4,7 +4,7 @@
 Bangladesh Army University of Science & Technology (BAUST), Saidpur
 
 🔭 I recently built a **Flutter Internship Finding Portal**—check it out below.  
-📫 Reach me at: [nuj515001@gmail.com](mailto:nuj515001@gmail.com)
+📫 Reach me at: [nusratjahan130724@gmail.com](mailto:nusratjahan130724@gmail.com)
 
 ---
 
